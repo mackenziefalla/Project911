@@ -1,0 +1,11 @@
+_id,StudentID,FirstName,LastName,Email,Major,GPA,CourseCodes[0],CourseCodes[1],CourseCodes[2]
+6694439e48cedfa7ce8c4a59,1,Alice,Smith,alice.smith@example.com,Computer Science,3.8,101,102,103
+6694439e48cedfa7ce8c4a5a,2,Bob,Johnson,bob.johnson@example.com,Mathematics,3.5,104,105,
+6694439e48cedfa7ce8c4a5b,3,Charlie,Lee,charlie.lee@example.com,Physics,3.9,106,107,108
+6694439e48cedfa7ce8c4a5c,4,David,Kim,david.kim@example.com,Chemistry,3.2,109,110,
+6694439e48cedfa7ce8c4a5d,5,Eva,Brown,eva.brown@example.com,Biology,3.7,111,112,113
+6694439e48cedfa7ce8c4a5e,6,Frank,Williams,frank.williams@example.com,History,3.6,114,115,
+6694439e48cedfa7ce8c4a5f,7,Grace,Davis,grace.davis@example.com,Literature,3.4,116,117,118
+6694439e48cedfa7ce8c4a60,8,Hannah,Wilson,hannah.wilson@example.com,Engineering,3.3,119,120,
+6694439e48cedfa7ce8c4a61,9,Ian,Martinez,ian.martinez@example.com,Philosophy,3.1,121,122,123
+6694439e48cedfa7ce8c4a62,10,Jack,Garcia,jack.garcia@example.com,Economics,3,124,125,126
